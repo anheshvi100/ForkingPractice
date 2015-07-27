@@ -14,6 +14,11 @@ namespace ForkingPractice
 
             Console.WriteLine("Hello " + name);
             Console.ReadLine();
+
+            name = "Shamseen";
+
+            Console.WriteLine("Hello " + name);
+            Console.ReadLine();
         }
     }
 }
